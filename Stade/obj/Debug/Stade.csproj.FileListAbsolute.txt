@@ -1,0 +1,16 @@
+D:\etudes\Dev\C#\Stade\Stade\bin\Debug\Stade.exe.config
+D:\etudes\Dev\C#\Stade\Stade\bin\Debug\Stade.exe
+D:\etudes\Dev\C#\Stade\Stade\bin\Debug\Stade.pdb
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.csprojResolveAssemblyReference.cache
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.Accueil.resources
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.Properties.Resources.resources
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.Stade.resources
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.csproj.GenerateResource.Cache
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.exe
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.pdb
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.Evenement.resources
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.Zone.resources
+D:\etudes\Dev\C#\Stade\Stade\bin\Debug\evenementdb.mdf
+D:\etudes\Dev\C#\Stade\Stade\bin\Debug\evenementdb_log.ldf
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.Reservation.resources
+D:\etudes\Dev\C#\Stade\Stade\obj\Debug\Stade.Courbe.resources
